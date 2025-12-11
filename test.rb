@@ -1,1 +1,1 @@
-puts:test
+puts "hello world"
