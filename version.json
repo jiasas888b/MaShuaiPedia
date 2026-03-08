@@ -1,0 +1,18 @@
+{
+  "id":"0.3.0",
+  "name":"0.3.0-beta1",
+  "version_code":17,
+  "build_time":"2026.3.8",
+  "data":{
+    "app_name_en":"MaShuai Pedia",
+    "app_name_zh":"马帅百科"
+    "search_major":3,
+    "made_in":"Acode",
+    "Acode_version":"1.11.8",
+    "Packed":"WebCat",
+    "user_min_Android_version":"4.4+",
+    "min_SDK_ver":"19",
+    "developer":"jiasas888b_GitHub",
+  }
+  "stable":true
+}
