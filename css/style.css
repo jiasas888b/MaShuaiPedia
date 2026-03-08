@@ -1,0 +1,41 @@
+/* 夜晚页面代码，未启用
+body{
+    background-color:#000000
+}
+h1{
+    color:#ffffff
+}
+p{
+    color:#ffffff
+}
+ */
+#topmenu{
+  
+    background-color: rgba(255, 255, 255, 0.75);
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0);
+    padding: 20px;
+    text-align: center;
+}
+#find{
+   border-radius: 8px; 
+   width: 300px;
+   height: 25px;
+   background-color: rgba(255,255,255,0.5);
+}
+#ok{
+    border-radius: 5px;
+    width: 45px;
+    height: 30px;
+    margin-left: -7px;
+   background-color: rgba(255,255,255,0.5); 
+}
+#webt{
+  text-shadow: 0 3px 5px rgba(0,0,0,0.15);
+}
+#searchcount{
+  margin-top:50px;
+}
+.box{
+  
+}

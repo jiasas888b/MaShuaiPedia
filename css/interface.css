@@ -1,0 +1,33 @@
+body{
+  background-color: lightblue;
+  user-select: none;
+}
+/*屏幕适应*/
+body {
+            background-color: lightblue;
+            min-height: 90vh;
+            
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 25px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            .search-box {
+                padding: 15px 20px;
+                font-size: 16px;
+            }
+            
+            .search-btn {
+                padding: 8px 16px;
+                font-size: 14px;
+            }
+        }
