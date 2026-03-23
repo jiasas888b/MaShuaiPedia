@@ -1,4 +1,5 @@
 # MaShuaiPedia
+![GitHub All Releases](https://img.shields.io/github/downloads/jiasas888b/MaShuai-Pedia/total)
 <h3>马帅百科</h3>
 <p>an App made in HTML,js,css</p>
 <p>一个HTML，JavaScript，css做的软件</p>
